@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ifra Taskin</h1>
+<h1 align="center">Hi 👋, I'm Ifra Taskin Saif</h1>
 <h3 align="center">Aspiring Frontend & Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifrataskin4363&label=Profile%20views&color=0e75b6&style=flat" alt="ifrataskin4363" /> </p>
